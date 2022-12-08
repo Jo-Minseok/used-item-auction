@@ -1,0 +1,86 @@
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\grpc_csharp_ext.x86.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\grpc_csharp_ext.x64.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\libgrpc_csharp_ext.x64.so
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\libgrpc_csharp_ext.x64.dylib
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\deal Program.exe.config
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\deal Program.exe.manifest
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\deal Program.application
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\deal Program.exe
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\deal Program.pdb
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\BouncyCastle.Crypto.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Auth.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Core.Api.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Core.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Net.Client.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Net.Common.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\K4os.Compression.LZ4.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\K4os.Compression.LZ4.Streams.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\K4os.Hash.xxHash.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\MySql.Data.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Newtonsoft.Json.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Buffers.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Collections.Immutable.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Diagnostics.DiagnosticSource.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Linq.Async.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Memory.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Numerics.Vectors.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Threading.Tasks.Extensions.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.ValueTuple.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\ZstdNet.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\BouncyCastle.Crypto.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Auth.pdb
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Auth.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Core.pdb
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Core.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Core.Api.pdb
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Core.Api.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Net.Client.pdb
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Net.Client.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Net.Common.pdb
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Grpc.Net.Common.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\K4os.Compression.LZ4.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\K4os.Compression.LZ4.Streams.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\K4os.Hash.xxHash.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\MySql.Data.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\Newtonsoft.Json.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Buffers.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Collections.Immutable.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Diagnostics.DiagnosticSource.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Linq.Async.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Memory.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Numerics.Vectors.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.Threading.Tasks.Extensions.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\bin\Release\System.ValueTuple.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal Program.csproj.AssemblyReference.cache
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal Program.csproj.SuggestedBindingRedirects.cache
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formAuctioning.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formMyAuction.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formDBCheck.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formEditCategory.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formAuctionobj.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formExitCheck.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formFindIP.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formSignIn.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formMDhome.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.Properties.Resources.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formSignUp.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formPasswordCheck.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formUpload.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formUScash.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formUShome.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal_Program.formUserModifyProfile.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal Program.csproj.GenerateResource.cache
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal Program.csproj.CoreCompileInputs.cache
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal Program.exe.manifest
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal Program.application
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal Program.csproj.CopyComplete
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal Program.exe
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\프로젝트 코딩\deal Program\deal Program\obj\Release\deal Program.pdb

@@ -1,0 +1,86 @@
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\grpc_csharp_ext.x86.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\grpc_csharp_ext.x64.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\libgrpc_csharp_ext.x64.so
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\libgrpc_csharp_ext.x64.dylib
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\deal Program.exe.config
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\deal Program.exe.manifest
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\deal Program.application
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\deal Program.exe
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\deal Program.pdb
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\BouncyCastle.Crypto.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Auth.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Core.Api.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Core.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Net.Client.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Net.Common.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\K4os.Compression.LZ4.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\K4os.Hash.xxHash.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\MySql.Data.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Newtonsoft.Json.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Buffers.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Collections.Immutable.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Linq.Async.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Memory.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Numerics.Vectors.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.ValueTuple.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\ZstdNet.dll
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\BouncyCastle.Crypto.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Auth.pdb
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Auth.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Core.pdb
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Core.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Core.Api.pdb
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Core.Api.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Net.Client.pdb
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Net.Client.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Net.Common.pdb
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Grpc.Net.Common.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\K4os.Compression.LZ4.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\K4os.Hash.xxHash.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\MySql.Data.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\Newtonsoft.Json.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Buffers.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Collections.Immutable.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Linq.Async.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Memory.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Numerics.Vectors.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\bin\Debug\System.ValueTuple.xml
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\UsedAuction.csproj.AssemblyReference.cache
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\UsedAuction.csproj.SuggestedBindingRedirects.cache
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formAuctioning.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formMyAuction.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formDBCheck.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formEditCategory.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formAuctionobj.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formExitCheck.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formFindIP.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formSignIn.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formMDhome.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.Properties.Resources.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formSignUp.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formPasswordCheck.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formUpload.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formUScash.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formUShome.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal_Program.formUserModifyProfile.resources
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\UsedAuction.csproj.GenerateResource.cache
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\UsedAuction.csproj.CoreCompileInputs.cache
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal Program.exe.manifest
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal Program.application
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\UsedAuction.csproj.CopyComplete
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal Program.exe
+G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal Program.pdb
