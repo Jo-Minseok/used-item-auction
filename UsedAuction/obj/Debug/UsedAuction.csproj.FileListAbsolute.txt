@@ -84,3 +84,25 @@ G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\�
 G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\UsedAuction.csproj.CopyComplete
 G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal Program.exe
 G:\내 드라이브\학교\2학년\2학기\비주얼프로그래밍(장성진)\프로젝트\20192471_조민석_유즈옥션_프로젝트 결과\유즈옥션\UsedAuction\obj\Debug\deal Program.pdb
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\UsedAuction.csproj.AssemblyReference.cache
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\UsedAuction.csproj.SuggestedBindingRedirects.cache
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formAuctioning.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formMyAuction.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formDBCheck.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formEditCategory.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formAuctionobj.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formExitCheck.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formFindIP.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formSignIn.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formMDhome.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.Properties.Resources.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formSignUp.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formPasswordCheck.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formUpload.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formUScash.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formUShome.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal_Program.formUserModifyProfile.resources
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\UsedAuction.csproj.GenerateResource.cache
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\UsedAuction.csproj.CoreCompileInputs.cache
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal Program.exe
+C:\Users\BYGAME\Desktop\Github\UsedItemsAuction_Project\UsedAuction\obj\Debug\deal Program.pdb
